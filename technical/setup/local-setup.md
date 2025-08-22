@@ -115,7 +115,6 @@ ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173,http://localhost:417
 
 # Auth server URLs
 AUTH_SERVER_URL=http://localhost:8000
-PRODUCTION_AUTH_SERVER_URL=https://dhaniverseapi.deno.dev
 ```
 
 Return to project root:

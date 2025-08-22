@@ -65,7 +65,7 @@ const calculateInterest = (principal: number, rate: number) => principal * rate;
 
 // Constants: SCREAMING_SNAKE_CASE
 const MAX_RETRY_ATTEMPTS = 3;
-const API_BASE_URL = 'https://api.dhaniverse.com';
+const API_BASE_URL = 'https://api.dhaniverse.in';
 
 // Types and interfaces: PascalCase
 interface UserProfile {
